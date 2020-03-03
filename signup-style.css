@@ -1,0 +1,6 @@
+body {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    background: linear-gradient(to top, rgba(255, 179, 179, 0.1), rgba(255, 26, 26, 0.4)) !important;
+}
